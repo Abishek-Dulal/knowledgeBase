@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "cd6cff9a43ac2a2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b581355efe1b81b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "microservice_patterns/microservice build pattern.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ed4b7a57822918b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf22a1ce011008c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "017ac86e9cf66482",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a8890721574c9790",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#springSample",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 387
+  },
+  "right": {
+    "id": "61dc0f0443008227",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8a1ac4ca05ef1ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f31c3c2e14d9dc81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "microservice_patterns/microservice build pattern.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "8b581355efe1b81b",
+  "lastOpenFiles": [
+    "microservice_patterns/microservice build pattern.md",
+    "microservice_patterns/microservice authentication  pattern.md",
+    "Spring Application Sample.md",
+    "spring/Spring microservice pattern.md",
+    "microservice_patterns/microservice routing patterns.md",
+    "microservice_patterns/microservice resilency patterns.md",
+    "microservice_patterns/microservice Pattern.md",
+    "microservice_patterns/microservice metric patterns.md",
+    "microservice_patterns/microservice logging  and tracing patterns.md",
+    "microservice_patterns/microservice development pattern.md"
+  ]
+}
