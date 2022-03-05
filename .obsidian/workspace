@@ -7,12 +7,8 @@
         "id": "8b581355efe1b81b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "microservices-perspective/DevOps.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#microservice_pattern",
+                "query": "docker_compose_advanced.png",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "microservices-perspective/DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +83,15 @@
   },
   "active": "8b581355efe1b81b",
   "lastOpenFiles": [
-    "microservices-perspective/DevOps.md",
-    "microservices-perspective/microservice build perspective.md",
-    "microservices-perspective/Software developer.md",
-    "microservices-perspective/DevOps.md",
-    "Services Types (as a Service).md",
-    "microservice.md",
-    "microservices-perspective/Archietect.md",
-    "microservices-perspective/Untitled.md",
-    "sample/Spring Application Sample.md",
-    "microservice-bestpractice/Admin processes.md"
+    "docker/Docker volumes.md",
+    "docker/DockerFile.md",
+    "docekerfile_cheatsheat.png",
+    "docker/Docker compose.md",
+    "docker/images/docker_refrence.png",
+    "docker/images/dockercompose_commands.png",
+    "docker/Docker CheatSheat.md",
+    "docker/Docker containers.md",
+    "docker/images/container_vs_vm.png",
+    "docker/Docker Concept.md"
   ]
 }
