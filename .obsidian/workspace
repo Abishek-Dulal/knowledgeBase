@@ -7,8 +7,12 @@
         "id": "8b581355efe1b81b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "microservices-perspective/DevOps.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "best practise",
+                "query": "tag:#microservice_pattern",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "microservices-perspective/DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,15 +88,15 @@
   },
   "active": "8b581355efe1b81b",
   "lastOpenFiles": [
-    "microservice_patterns/microservice build pattern.md",
-    "microservice_patterns/microservice routing patterns.md",
-    "microservice_patterns/microservice metric patterns.md",
-    "microservice-bestpractice/Admin processes.md",
-    "microservice-bestpractice/microservice bestpractise.md",
-    "microservice-bestpractice/Processes.md",
-    "microservice-bestpractice/Logs.md",
-    "microservice-bestpractice/Backing Services.md",
-    "microservice-bestpractice/Build, run , release.md",
-    "microservice-bestpractice/CodeBase.md"
+    "microservices-perspective/DevOps.md",
+    "microservices-perspective/microservice build perspective.md",
+    "microservices-perspective/Software developer.md",
+    "microservices-perspective/DevOps.md",
+    "Services Types (as a Service).md",
+    "microservice.md",
+    "microservices-perspective/Archietect.md",
+    "microservices-perspective/Untitled.md",
+    "sample/Spring Application Sample.md",
+    "microservice-bestpractice/Admin processes.md"
   ]
 }
