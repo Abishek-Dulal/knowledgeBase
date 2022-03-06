@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8b581355efe1b81b",
+        "id": "2d298e87fe039875",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "microservice-bestpractice/Concurrency.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker_compose_advanced.png",
+                "query": "tag:#docker",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "microservice-bestpractice/Concurrency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,19 +84,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "8b581355efe1b81b",
+  "active": "2d298e87fe039875",
   "lastOpenFiles": [
-    "docker/Docker volumes.md",
-    "docker/DockerFile.md",
-    "docekerfile_cheatsheat.png",
-    "docker/Docker compose.md",
-    "docker/images/docker_refrence.png",
-    "docker/images/dockercompose_commands.png",
-    "docker/Docker CheatSheat.md",
-    "docker/Docker containers.md",
-    "docker/images/container_vs_vm.png",
-    "docker/Docker Concept.md"
+    "microservice-bestpractice/Concurrency.md",
+    "microservice-bestpractice/Config.md",
+    "microservice-bestpractice/Dependecies.md",
+    "microservice-bestpractice/Dev-Prod parity.md",
+    "microservice-bestpractice/Disposability.md",
+    "microservice-bestpractice/microservice bestpractise.md",
+    "microservice-bestpractice/Processes.md",
+    "Services Types (as a Service).md",
+    "microservice_patterns/microservice development pattern.md",
+    "docker/Docker.md"
   ]
 }

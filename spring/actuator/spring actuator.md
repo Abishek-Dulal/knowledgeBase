@@ -19,4 +19,4 @@ management.health.db.enabled=false
 management.health.diskspace.enabled=true
 ```
 
-#spring 
+#spring #actuator

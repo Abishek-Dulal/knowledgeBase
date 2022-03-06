@@ -6,8 +6,8 @@
 - port binding is important. -p 8080:8080
 - docker network  --net mango-metwork
 - docker environment variable -e app_name="monke"
-
-
+- for remove dangling images networks etc.
+         docker system prune.
 
 
 #docker 
