@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#docker",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 281,
-  "scale": 0.9999999999999792,
+  "scale": 1.5293745770054634,
   "close": true
 }

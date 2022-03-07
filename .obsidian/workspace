@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2d298e87fe039875",
+        "id": "1af432c0f011728c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "microservice-bestpractice/Concurrency.md",
+            "file": "microservice-bestpractice/Config.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "microservice-bestpractice/Concurrency.md",
+                "file": "microservice-bestpractice/Config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2d298e87fe039875",
+  "active": "1af432c0f011728c",
   "lastOpenFiles": [
-    "microservice-bestpractice/Concurrency.md",
     "microservice-bestpractice/Config.md",
+    "microservices-perspective/microservice build perspective.md",
+    "microservices-perspective/Archietect.md",
+    "microservices-perspective/DevOps.md",
+    "microservice_patterns/microservice development pattern.md",
+    "docker/Docker Concept.md",
+    "microservice-bestpractice/Concurrency.md",
     "microservice-bestpractice/Dependecies.md",
     "microservice-bestpractice/Dev-Prod parity.md",
-    "microservice-bestpractice/Disposability.md",
-    "microservice-bestpractice/microservice bestpractise.md",
-    "microservice-bestpractice/Processes.md",
-    "Services Types (as a Service).md",
-    "microservice_patterns/microservice development pattern.md",
-    "docker/Docker.md"
+    "microservice-bestpractice/Disposability.md"
   ]
 }
