@@ -53,5 +53,11 @@ ENTRYPOINT ["java","-cp","app:app/lib/*","com.optimagrowth.licenseserver.License
 
 ```
 
+``` shell
+ mvn clean package dockerfile:build
+
+```
+
+
 
 #spring  #docker 
