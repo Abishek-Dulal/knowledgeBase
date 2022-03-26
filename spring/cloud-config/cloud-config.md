@@ -13,39 +13,12 @@ public class ServerApplication{
 
 ```
 
-Spring cloud config requires this in the application configuration .
+Config can be applied using:
+[[git file config]]
+[[native-file-config]]
+[[vault cloud config]]
 
-```yml
-spring:
-  application:
-    name: config-server
-  profiles:
-    active: composite
-  cloud:
-    config:
-      server:
-        composite:
-          - type: native
-            search-locations: classpath:\config
-        bootstrap: true
 
-management:
-  health:
-    defaults:
-      enabled: true
-
-server:
-  port: 8071
-
-```
-
-## native is  profile in spring cloud  indicating it is loading configuration from files .
-
-so to load from configuration
-``` yml
-	search-locations: classpath:\config   
-
-```
 
 Spring pom file for the spirng cloud configuration on the server side is:-
 ```xml
@@ -114,13 +87,27 @@ Archietecture sample for spring configuration application.
 
 ![[cloud-config-working-mechanism.png]]
 
+## Spring configuration Security .
+put the property in application properties in both server and client. 
 
+```yml
+encrypt:
+  key : encryptkey 
 
+```
 
+we can using this to encrypt 
+```
+[POST] {{serverurl}}/encrypt
+[request]  data
+[response] asdfasdlfasdf1234432
+```
 
+so finally put the data in property file as:-
+``` yml
+mydata: {cipher} asdfasdlfasdf1234432
 
-
-
+```
 
 
 

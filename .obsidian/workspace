@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "11004f382c8e4031",
+        "id": "dec2b40ae3ec5607",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "spring/cloud-config/cloud-config.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spring/cloud-config/cloud-config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "11004f382c8e4031",
+  "active": "dec2b40ae3ec5607",
   "lastOpenFiles": [
+    "microservice-bestpractice/microservice bestpractise.md",
+    "microservice.md",
+    "microservice_patterns/microservice Pattern.md",
     "spring/cloud-config/cloud-config.md",
-    "docker/Docker compose.md",
-    "docker/Docker volumes.md",
-    "spring/docker/spring docker.md",
-    "spring/docker/Layered Jar.md",
-    "spring/docker/dockerfile maven plugin.md",
-    "spring/Spring microservice pattern.md",
-    "spring/images/cloud-config-server.png",
+    "spring/cloud-config/vault cloud config.md",
+    "spring/cloud-config/native-file-config.md",
+    "spring/cloud-config/git file config.md",
     "microservice-bestpractice/Config.md",
-    "microservice-bestpractice/microservice bestpractise.md"
+    "docker/Docker networks.md",
+    "docker/Docker images.md"
   ]
 }
