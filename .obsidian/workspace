@@ -7,12 +7,8 @@
         "id": "cf6f4886018a8b3c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "spring/cloud-resilency-service/cloud Resilency patterns.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spring/cloud-resilency-service/cloud Resilency patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,13 +74,21 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "9ff66330bca97bf3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "cf6f4886018a8b3c",
   "lastOpenFiles": [
