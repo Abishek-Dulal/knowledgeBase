@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "spring/cloud-service-discovery/Service discovery client.md",
+            "file": "spring/cloud-resilency-service/cloud Resilency patterns.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#docker",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spring/cloud-service-discovery/Service discovery client.md",
+                "file": "spring/cloud-resilency-service/cloud Resilency patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "cf6f4886018a8b3c",
   "lastOpenFiles": [
-    "spring/cloud-service-discovery/Service discovery client.md",
-    "spring/cloud-service-discovery/Spring Service Discovery.md",
-    "microservice_patterns/microservice routing patterns/why service discovery.md",
-    "microservice_patterns/microservice routing patterns/Service discovery archietecture.md",
-    "microservice_patterns/microservice routing patterns/microservice routing patterns.md",
-    "spring/cloud-config/git file config.md",
-    "spring/cloud-config/native-file-config.md",
-    "spring/cloud-config/cloud-config.md",
-    "microservice_patterns/microservice build pattern.md",
-    "microservice_patterns/microservice authentication  pattern.md"
+    "spring/cloud-resilency-service/cloud Resilency patterns.md",
+    "microservice_patterns/microservice resilency patterns/microservice resilency patterns.md",
+    "spring/cloud-resilency-service/Retry_pattern.md",
+    "spring/cloud-resilency-service/Rate_limitter_pattern.md",
+    "spring/cloud-resilency-service/fallback_pattern.md",
+    "spring/cloud-resilency-service/circuit_breaker_pattern.md",
+    "spring/cloud-resilency-service/Bulkhead_pattern.md",
+    "user context.md",
+    "microservice.md",
+    "Services Types (as a Service).md"
   ]
 }
