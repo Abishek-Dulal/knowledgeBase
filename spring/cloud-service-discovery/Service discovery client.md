@@ -126,5 +126,3 @@ public interface OrganisationFeignClint {
 
 
 
-
-#spriing #service_discovery 

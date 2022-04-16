@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cf6f4886018a8b3c",
+        "id": "44c3ff760b65ce8e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "spring/cloud-gateway/spring api gateway.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "loadbala",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "spring/cloud-gateway/spring api gateway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,17 +95,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cf6f4886018a8b3c",
+  "active": "44c3ff760b65ce8e",
   "lastOpenFiles": [
-    "spring/cloud-resilency-service/cloud Resilency patterns.md",
-    "microservice_patterns/microservice resilency patterns/microservice resilency patterns.md",
-    "spring/cloud-resilency-service/Retry_pattern.md",
-    "spring/cloud-resilency-service/Rate_limitter_pattern.md",
-    "spring/cloud-resilency-service/fallback_pattern.md",
-    "spring/cloud-resilency-service/circuit_breaker_pattern.md",
-    "spring/cloud-resilency-service/Bulkhead_pattern.md",
-    "user context.md",
-    "microservice.md",
-    "Services Types (as a Service).md"
+    "spring/cloud-gateway/spring api gateway.md",
+    "spring/images/thread_management.png",
+    "spring/cloud-service-discovery/Service discovery client.md",
+    "spring/images/spring_gateway_filters.png",
+    "spring/images/setting_correlation_service.png",
+    "spring/docker/buildpack && jib.md",
+    "spring/docker/dockerfile maven plugin.md",
+    "spring/docker/Layered Jar.md",
+    "spring/Spring microservice pattern.md",
+    "spring/cloud-resilency-service/Retry_pattern.md"
   ]
 }
