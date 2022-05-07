@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "44c3ff760b65ce8e",
+        "id": "2192a1d31f0bd644",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "spring/cloud-gateway/spring api gateway.md",
+            "file": "spring/cloud-resilency-service/Retry_pattern.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spring/cloud-gateway/spring api gateway.md",
+                "file": "spring/cloud-resilency-service/Retry_pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,24 +88,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "44c3ff760b65ce8e",
+  "active": "2192a1d31f0bd644",
   "lastOpenFiles": [
-    "spring/cloud-gateway/spring api gateway.md",
-    "spring/images/thread_management.png",
+    "spring/cloud-resilency-service/Retry_pattern.md",
+    "spring/cloud-resilency-service/Rate_limitter_pattern.md",
+    "spring/cloud-resilency-service/fallback_pattern.md",
+    "spring/cloud-resilency-service/cloud Resilency patterns.md",
+    "spring/cloud-resilency-service/circuit_breaker_pattern.md",
+    "spring/cloud-resilency-service/Bulkhead_pattern.md",
     "spring/cloud-service-discovery/Service discovery client.md",
-    "spring/images/spring_gateway_filters.png",
-    "spring/images/setting_correlation_service.png",
-    "spring/docker/buildpack && jib.md",
-    "spring/docker/dockerfile maven plugin.md",
-    "spring/docker/Layered Jar.md",
-    "spring/Spring microservice pattern.md",
-    "spring/cloud-resilency-service/Retry_pattern.md"
+    "spring/cloud-service-discovery/Spring Service Discovery.md",
+    "spring/maven/BOM.md",
+    "spring/cloud-gateway/spring api gateway.md"
   ]
 }
